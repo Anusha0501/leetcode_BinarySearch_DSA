@@ -1,4 +1,6 @@
 # LeetCode Binary Search Study Plan - Ongoing 🚀
+![0640b163-3097-4163-91d9-f9ab751efdc9_1654957305 362194](https://github.com/user-attachments/assets/3ad858ad-58dc-423d-bdc6-bc66d7ce313b)
+
 
 ## Overview
 This repository documents my ongoing completion of the **LeetCode Binary Search Study Plan** ([link](https://leetcode.com/studyplan/binary-search/)). The study plan is helping me master binary search techniques through structured problem-solving, with continuous updates as I progress! 
